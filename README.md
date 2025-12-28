@@ -1,13 +1,13 @@
 # Mathed – Interactive Math Practice App
 
-Mathed is a web-based math study tool designed for students to practice and understand mathematics at high school level through guided tutorials and interactive exercises.
+Mathed is a web-based math study tool designed for upper secondary / high school students, covering curriculum-aligned topics through guided tutorials and interactive exercises.
 
 ## Features
 
 - Step-by-step math tutorials with worked examples
 - Interactive problem solving with instant feedback
 - Topic-based exercise generation with adjustable difficulty
-- Progress tracking with accuracy metrics and streaks
+- Progress tracking (local, no account required)
 - Support for multiple answer formats (fractions, decimals, expressions, vectors)
 - Personalized recommendations based on performance
 
@@ -38,10 +38,13 @@ Mathed is a web-based math study tool designed for students to practice and unde
 - mathjs
 - Jest (testing)
 
+## Prerequisites
+- Node.js 18+
+
 ## Installation
 
 ```bash
-git clone https://github.com/username/mathed.git
+git clone https://github.com/mikkelreuter-cloud/mathed.git
 cd mathed
 npm install
 npm run dev
@@ -86,7 +89,9 @@ Contributions are welcome. Please open an issue before submitting major changes.
 
 ## License
 
-Educational use only.
+This project is for educational and personal use only.
+All rights reserved.
+
 
 ## Author
 
